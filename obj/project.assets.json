@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jairq\\.nuget\\packages\\": {}
+    "/home/jair/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jairq\\OneDrive\\Documentos\\pruebas-git\\calculadora\\calculadora.csproj",
+      "projectUniqueName": "/home/jair/Documentos/prueba-git/segundo/calculadora/calculadora.csproj",
       "projectName": "calculadora",
-      "projectPath": "C:\\Users\\jairq\\OneDrive\\Documentos\\pruebas-git\\calculadora\\calculadora.csproj",
-      "packagesPath": "C:\\Users\\jairq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jairq\\OneDrive\\Documentos\\pruebas-git\\calculadora\\obj\\",
+      "projectPath": "/home/jair/Documentos/prueba-git/segundo/calculadora/calculadora.csproj",
+      "packagesPath": "/home/jair/.nuget/packages/",
+      "outputPath": "/home/jair/Documentos/prueba-git/segundo/calculadora/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jairq\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/jair/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
